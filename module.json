@@ -1,0 +1,18 @@
+{
+	"name": "sta-dice-roller",
+	"title": "Star Trek: Adventures Dice Roller",
+	"description": "Adds the ability to roll an swa die",
+	"version": "1.0.0",
+	"minimumCoreVersion" : "0.8.8",
+	"compatibleCoreVersion" : "0.8.8",
+	"author": "t3rminalVel0city, t3rminalV",
+	"esmodules": [
+		"./modules/sta.js"
+	],
+	"styles": [
+		"./css/sta.css"
+	],
+	"url": "https://github.com/t3rminalVel0city/FVVT-SWA",
+	"manifest": "https://raw.githubusercontent.com/t3rminalVel0city/FVVT-SWA/master/module.json",
+	"download": "https://raw.githubusercontent.com/t3rminalVel0city/FVVT-SWA/master/dist/fvtt-swa.zip"
+}
